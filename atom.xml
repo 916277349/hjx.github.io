@@ -5,9 +5,9 @@
   
   <link href="/hjx/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/he_jia_xiang/hejiaxiangdegerenboke.git/"/>
+  <link href="http://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/"/>
   <updated>2020-06-07T09:11:09.313Z</updated>
-  <id>https://gitee.com/he_jia_xiang/hejiaxiangdegerenboke.git/</id>
+  <id>http://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/he_jia_xiang/hejiaxiangdegerenboke.git/2020/06/07/hello-world/"/>
-    <id>https://gitee.com/he_jia_xiang/hejiaxiangdegerenboke.git/2020/06/07/hello-world/</id>
+    <link href="http://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/2020/06/07/hello-world/"/>
+    <id>http://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/2020/06/07/hello-world/</id>
     <published>2020-06-07T09:11:09.313Z</published>
     <updated>2020-06-07T09:11:09.313Z</updated>
     
