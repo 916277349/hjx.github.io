@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hejiaxiangdegerenboke/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/"/>
   <updated>2020-06-07T09:11:09.313Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/07/hello-world/"/>
-    <id>http://yoursite.com/2020/06/07/hello-world/</id>
+    <link href="https://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/2020/06/07/hello-world/"/>
+    <id>https://he_jia_xiang.gitee.io/hejiaxiangdegerenboke/2020/06/07/hello-world/</id>
     <published>2020-06-07T09:11:09.313Z</published>
     <updated>2020-06-07T09:11:09.313Z</updated>
     
